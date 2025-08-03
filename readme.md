@@ -3,11 +3,10 @@
 ## 📌 About Me
 I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist** with hands-on experience in building end-to-end ML pipelines and deploying AI solutions in production.I specialize in transforming complex AI concepts into real-world applications.
 
-- 💼 I'm currently working as a **Junior ML Engineer** at Sens Viz
+- 💼 I'm Fresh Graduate.
 - 🤖 I'm diving deep into **Computer Vision**, **NLP**, and **Generative AI**
 - 🧠 Ask me about **YOLO**, **CNNs**, **TensorFlow**, **OpenCV**, or **Model Optimization**
 - 📬 How to reach me: **emanshaheen323@gmail.com**
-- ⚡ Fun fact: I've built a multimodal AI agent that can generate lip-synced video responses!
 
 ## 🧰 Tech Stack
 

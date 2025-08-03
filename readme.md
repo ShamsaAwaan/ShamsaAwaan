@@ -6,7 +6,7 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 - 💼 I'm currently working as a **Junior ML Engineer** at Sens Viz
 - 🤖 I'm diving deep into **Computer Vision**, **NLP**, and **Generative AI**
 - 🧠 Ask me about **YOLO**, **CNNs**, **TensorFlow**, **OpenCV**, or **Model Optimization**
-- 📬 How to reach me: **muhammad.1321u@gmail.com**
+- 📬 How to reach me: **emanshaheen323@gmail.com**
 - ⚡ Fun fact: I've built a multimodal AI agent that can generate lip-synced video responses!
 
 ## 🧰 Tech Stack
@@ -58,4 +58,4 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.1321u@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanshaheen323@gmail.com)
